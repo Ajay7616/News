@@ -32,64 +32,64 @@ This project was created with the help of Gen-AI, particularly using ChatGPT. Be
 
 1. **Rectifying a Code Error**:
    
-   - I created a success message to display when a user registers or publishes news. The close button wasn't functioning correctly, so I asked ChatGPT for assistance.
+   I created a success message to display when a user registers or publishes news. The close button wasn't functioning correctly, so I asked ChatGPT for assistance.
 
-   - **Command**:
-   - 
-   - ![image](https://github.com/user-attachments/assets/81826495-f702-4028-a207-8ab48a75a87a)
-   -
-   - **Result**:
-   -
-   - ![image](https://github.com/user-attachments/assets/89d58d06-6cb6-4762-9b3d-b91db79a01df)
-
-2. **Optimizing Code**:
+   **Command**:
    
-  - I optimized the logout code to make it more efficient.
-    
-  - **Command**:
-  - 
-  - ![image](https://github.com/user-attachments/assets/2f2cbdbf-c2e6-4f49-97d0-69b2afa00c2b)
+   ![image](https://github.com/user-attachments/assets/81826495-f702-4028-a207-8ab48a75a87a)
 
-  - **Result**:
-  - 
-  - ![image](https://github.com/user-attachments/assets/c0f48b3d-30cf-4b53-9a17-12c2c6770f92)
+   **Result**:
+   
+   ![image](https://github.com/user-attachments/assets/89d58d06-6cb6-4762-9b3d-b91db79a01df)
+
+3. **Optimizing Code**:
+   
+   I optimized the logout code to make it more efficient.
+    
+   **Command**:
+   
+   ![image](https://github.com/user-attachments/assets/2f2cbdbf-c2e6-4f49-97d0-69b2afa00c2b)
+
+   **Result**:
+   
+   ![image](https://github.com/user-attachments/assets/c0f48b3d-30cf-4b53-9a17-12c2c6770f92)
 
 3. **Changing Page Layout**:
 
-  - I wanted to change the layout of an already created page. I provided the existing code to ChatGPT and received an improved layout structure.
+   I wanted to change the layout of an already created page. I provided the existing code to ChatGPT and received an improved layout structure.
   
-  - **Command**:
-  - 
-  - ![image](https://github.com/user-attachments/assets/8de5c0ff-9cf1-400f-8280-43ab9107d0a3)
+   **Command**:
+    
+   ![image](https://github.com/user-attachments/assets/8de5c0ff-9cf1-400f-8280-43ab9107d0a3)
 
-  - **Output**:
-  - 
-  - ![image](https://github.com/user-attachments/assets/ab0d5ee6-8f18-47b7-a6ea-510b110f6065)
+   **Output**:
+   
+   ![image](https://github.com/user-attachments/assets/ab0d5ee6-8f18-47b7-a6ea-510b110f6065)
 
 4. Creating a Function to Update News Content:
 
-  - I generated a function to update the news content using a simple command, leveraging the code written for submitting news content as a reference.
+   I generated a function to update the news content using a simple command, leveraging the code written for submitting news content as a reference.
   
-  - **Command**:
+   **Command**:
 
-  - ![image](https://github.com/user-attachments/assets/d10bcdb1-b0ff-490b-858b-08e5418b211d)
-  -
-  - **Output**:
+   ![image](https://github.com/user-attachments/assets/d10bcdb1-b0ff-490b-858b-08e5418b211d)
+   
+   **Output**:
 
-  - ![image](https://github.com/user-attachments/assets/e30443e9-2833-472f-a849-db1fdaa6bf72)
+   ![image](https://github.com/user-attachments/assets/e30443e9-2833-472f-a849-db1fdaa6bf72)
 
 
 5. Generating Major Layout Content for Homepage:
 
-  - I used ChatGPT to generate the layout for the homepage, resulting in a well-structured design.
-  -
-  - **Command**:
+   I used ChatGPT to generate the layout for the homepage, resulting in a well-structured design.
 
-    ![image](https://github.com/user-attachments/assets/a251d16e-c57a-439d-99e0-0523f2318c36)
+   **Command**:
+
+   ![image](https://github.com/user-attachments/assets/a251d16e-c57a-439d-99e0-0523f2318c36)
     
+   **Output**:
 
-  - **Output**:
-  - ![image](https://github.com/user-attachments/assets/8cd65d55-725b-4a16-a778-a3f7fc9e21ae)
+   ![image](https://github.com/user-attachments/assets/8cd65d55-725b-4a16-a778-a3f7fc9e21ae)
 
 
 ## Conclusion
